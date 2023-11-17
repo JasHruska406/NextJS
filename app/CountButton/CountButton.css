@@ -1,0 +1,22 @@
+* {
+    font-family: arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    margin: 7px 2px;
+}
+
+.buttons {
+    display: flex;
+}
+
+.pair {
+    text-align: center;
+    margin: 7px 80px 7px 2px;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+hr {
+    margin: 20px 2px;
+}
